@@ -6,14 +6,14 @@ Here is a quick look at what I'm up to:
 
 -  **I’m currently working on:** Personal projects and hackathons.
 -  **I’m currently learning & practicing:** .NET and grinding LeetCode to prepare for interviews.
--  **Ask me about:** C#, JavaScript, Linux, video games, or rock climbing!
+-  **Ask me about:** new technologies, programing, Linux, video games, or rock climbing!
 -  **How to reach me:** lucascastineiras100@gmail.com
 -  **Fun fact:** When I'm not programming, I'm probably out on a rock climbing  or playing Video games.
 
 ###  Languages
 
 - **Spanish:** Native
-- **English:** Fluent (C1)
+- **English:** Native 
 - **Japanese:** N4
 
 ###  Tech Stack & Tools
